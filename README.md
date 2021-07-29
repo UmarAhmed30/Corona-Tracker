@@ -1,3 +1,7 @@
+> ***Corona Tracker***
+> A dynamic website with country-wise COVID-19 statistical data developed using ReactJS with custom components for better data visualization.
+> Demo: https://covid-tracker-6bf85b.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
